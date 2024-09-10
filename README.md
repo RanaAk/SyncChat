@@ -16,6 +16,16 @@ SyncChat is an advanced real-time messaging app for iOS, built with **Swift** an
   <img src="images/dark.png" alt="SyncChat in Action" width="200" height="400" style="margin: 10px;">
 </p>
 
+<div style="display: flex; align-items: center;">
+  <a href="https://drive.google.com/file/d/1g-aU8OCnPPp8SeLhyi2w_Wola_J92akH/view?usp=sharing" target="_blank" style="display: inline-flex; align-items: center;">
+    <!-- <img src="https://cdn-icons-png.flaticon.com/512/727/727245.png" alt="Play Video" style="width: 50px; height: auto; margin-right: 10px;"> -->
+
+  <img src="https://cdn-icons-png.flaticon.com/512/7477/7477009.png" alt="Play Video" style="width: 50px; height: auto; margin-right: 10px; margin-bottom : 10px;">
+   <Text>Watch Video </Text>
+  </a>
+ 
+</div>
+
 ## ✨ Features
 
 - **User Authentication**: Secure login and signup with Firebase Authentication.
@@ -38,6 +48,17 @@ SyncChat is an advanced real-time messaging app for iOS, built with **Swift** an
 </p>
 
 *This demo shows the login process, real-time messaging, and the user-friendly interface.*
+
+<div style="display: flex; align-items: center;">
+  <a href="https://drive.google.com/file/d/1XuV7dyvpnnIU911umh6n8lbuMmXNct4s/view?usp=sharing" target="_blank" style="display: inline-flex; align-items: center;">
+    <!-- <img src="https://cdn-icons-png.flaticon.com/512/727/2938916.png" alt="Play Video" style="width: 50px; height: auto; margin-right: 10px;"> -->
+
+  <img src="https://cdn-icons-png.flaticon.com/512/5495/5495002.png" alt="Play Video" style="width: 50px; height: auto; margin-right: 10px; margin-bottom : 10px;">
+   <Text>Watch Video </Text>
+  </a>
+ 
+</div>
+
 
 ## 🎨 Key Features
 
@@ -104,3 +125,9 @@ open SyncChat.xcworkspace
 - <span style="color: rgb(112, 188, 105); font-weight: 450; font-style: italic;">Voice & Video Calls:</span> Enable users to start voice or video conversations.
 - <span style="color: rgb(112, 188, 105); font-weight: 450; font-style: italic;">File Sharing: </span>Share documents and files along with messages.
 - <span style="color: rgb(112, 188, 105); font-weight: 450; font-style: italic;">Custom Emojis:</span> React to messages with emojis.
+
+## 📒 Notes
+
+This app can be a valuable reference for developers looking to build similar  applications, providing a well-designed UI and a variety of features.
+
+Note: I have not uploaded the entire project to GitHub for security reasons. If you need my project urgently, please email me at mehediakbar9@gmail.com.
